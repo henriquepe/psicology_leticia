@@ -6,8 +6,9 @@ const Menu = () => {
     return (
         <Header>
         <HeaderDiv>
-            <Link href='/'>Sobre</Link>
-            <Link href='#'>Psicologia</Link>
+            <Link href='/'>Home</Link>
+            <Link href='/about'>Sobre</Link>
+            <Link href='#'>Trabalho</Link>
         </HeaderDiv>
         </Header>
     )
